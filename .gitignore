@@ -59,3 +59,12 @@ logs
 MUJOCO_LOG.TXT
 
 .claude
+
+# Isaac Sim/Omniverse Kit runtime cache & logs
+.kit/
+
+# nested external repo (cloned checkout, not a submodule)
+ACoT-VLA/
+
+# benchmark run outputs/logs
+benchmark_results/
